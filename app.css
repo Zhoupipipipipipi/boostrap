@@ -1,0 +1,25 @@
+h1,p,button{
+	font-family: "微软雅黑";
+	color: #eee;
+}
+
+.onepage{
+	height: 675px;
+}
+
+.onePage-bg{
+	height: 675px;
+	width: 100%;
+	position: absolute;
+	background-image: url(night.jpg);
+}
+.headfontsize{
+	margin-top: 120px;
+	margin-left: 30px;
+}
+.headfontsize h1{
+	line-height: 60px;
+}
+.headfontsize p{
+	margin: 25px 0;
+}
